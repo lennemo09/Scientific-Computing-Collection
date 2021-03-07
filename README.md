@@ -1,5 +1,6 @@
 # Mini SciComp Collection
 A (personal) collection of implementations of various _computational science/scientific computing_ concepts and algorithms. Comments/improvements/criticisms are welcome!
+This is a part of my self-directed learning journey on various topics in the field of computational science so there will be **a lot** of mistakes and errors. Please feel free to point them you if you happen to any! 
 
 ### Contents
 * Floating point numbers and computational errors
