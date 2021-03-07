@@ -32,4 +32,12 @@ A (personal) collection of implementations of various _computational science/sci
   * Non-degenerate game Nash equilibria
   * Monte Carlo approximation for unique Nash equilibria
 
- 
+### Notebooks
+All the scripts for this collection is written in Jupyter/IPython notebooks for ease of use and sharing! 
+If you are new to Python and/or IPython notebooks, please see the following quick guide on how to get Jupyter installed and running: https://realpython.com/jupyter-notebook-introduction/.
+
+### Contribution
+As mentioned above, anyone can make contributions (adding new contents/topics or adding/fixing existing ones), simply put in a PR or contact me via lennemo09@gmail.com.
+
+### Disclaimers
+Please be aware of plagiarism policies if you plan to use/reference the code for university assignments or academic works and also it is very likely that I have made (a lot of) mistakes since it is purely written and reviewed by me and no one else.
