@@ -1,4 +1,4 @@
-# Computational Science Collection
+# Mini SciComp Collection
 A (personal) collection of implementations of various _computational science/scientific computing_ concepts and algorithms. Comments/improvements/criticisms are welcome!
 
 ### Contents
