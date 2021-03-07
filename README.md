@@ -2,8 +2,6 @@
 > A (personal) collection of implementations of various _computational science/scientific computing_ concepts and algorithms. Comments/improvements/criticisms are welcome!
 This is a part of my self-directed learning journey on various topics in the field of computational science so there will be _**A LOT**_ of mistakes and errors. Please feel free to point them you if you happen to any! 
 
----
-
 ### Contents (Completed - To be pushed)
 * [Floating point numbers and computational errors](https://github.com/lennemo09/Scientific-Computing-Collection/tree/main/notebooks/floating-point-arithmetics)
 * Computational Linear Algebra
