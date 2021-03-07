@@ -6,7 +6,7 @@ This is a part of my self-directed learning journey on various topics in the fie
 * [Floating point numbers and computational errors](https://github.com/lennemo09/Scientific-Computing-Collection/tree/main/notebooks/floating-point-arithmetics)
 * Computational Linear Algebra
   * [Naive Gaussian elimination](https://github.com/lennemo09/Scientific-Computing-Collection/blob/main/notebooks/comp-lin-alg/gaussian-elimination.ipynb)
-  * [LU factorization](https://github.com/lennemo09/Scientific-Computing-Collection/blob/main/notebooks/comp-lin-alg/LU-factorization.ipynb) & Partial Pivoting
+  * [LU factorization](https://github.com/lennemo09/Scientific-Computing-Collection/blob/main/notebooks/comp-lin-alg/LU-factorization.ipynb) & [Partial Pivoting](https://github.com/lennemo09/Scientific-Computing-Collection/blob/main/notebooks/comp-lin-alg/partial-pivoting.ipynb)
   * Gauss-Seidel & Jacobi methods
   * Power method for Eigensystems
 * Iterative methods for non-linear equations
