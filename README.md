@@ -7,8 +7,8 @@ This is a part of my self-directed learning journey on various topics in the fie
 * Computational Linear Algebra
   * [Naive Gaussian elimination](https://github.com/lennemo09/Scientific-Computing-Collection/blob/main/notebooks/comp-lin-alg/gaussian-elimination.ipynb)
   * [LU factorization](https://github.com/lennemo09/Scientific-Computing-Collection/blob/main/notebooks/comp-lin-alg/LU-factorization.ipynb) & [Partial Pivoting](https://github.com/lennemo09/Scientific-Computing-Collection/blob/main/notebooks/comp-lin-alg/partial-pivoting.ipynb)
-  * Gauss-Seidel & Jacobi methods
-  * Power method for Eigensystems
+  * [Gauss-Seidel](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/comp-lin-alg/gauss-seidel-method.ipynb) & [Jacobi methods](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/comp-lin-alg/jacobi-method.ipynb)
+  * [Power method for Eigensystems](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/comp-lin-alg/power-method.ipynb)
 * Iterative methods for non-linear equations
   * Interval bisection method
   * Newton method
