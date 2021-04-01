@@ -14,25 +14,25 @@ This is a part of my self-directed learning journey on various topics in the fie
   * ✔ [Newton's method](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/iterative-methods-for-non-linear-systems/newton-method.ipynb)
   * ✔ [Secant method](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/iterative-methods-for-non-linear-systems/secant-method.ipynb)
   * ✔ [Generating Cobweb plots](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/iterative-methods-for-non-linear-systems/cobweb-model.ipynb)
-* ❌ Dynamical systems - Differential equations & Non-linear coupled differential models
+* ❓ Dynamical systems - Differential equations & Non-linear coupled differential models
   * ✔ [Extended Susceptibles-Infectives-Recovered (SIR) model](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/dynamical-systems-and-ODEs/SIR.ipynb)
   * ✔ [Euler's method](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/dynamical-systems-and-ODEs/eulers-method.ipynb)
   * ✔ [Heun's method](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/dynamical-systems-and-ODEs/heuns-method.ipynb)
   * ✔ [Lotka-Volterra's Predator-Prey model](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/misc/predator-prey-model.ipynb)
-  * ❌ Runge-Kutta 2
-* ❌ Stochastic modelling and simulation
-  * ❌ Monte Carlo simulation: Buffon's needle, probabilistic dice game, function approximation
-  * ❌ Monte Carlo simulation for Stochastic SIR modelling
-  * ❌ Rejection sampling
-  * ❌ Markov chain models
-* ❌ Heuristic simulation & optimization
-  * ❌ Simulated annealing
-  * ❌ Genetic algorithm
-* Game theory
-  * Iterated dominance
-  * Best-response strategy
-  * Non-degenerate game Nash equilibria
-  * Monte Carlo approximation for unique Nash equilibria
+  * ❓ Runge-Kutta 2
+* ❓ Stochastic modelling and simulation
+  * ❓ Monte Carlo simulation: Buffon's needle, probabilistic dice game, function approximation
+  * ❓ Monte Carlo simulation for Stochastic SIR modelling
+  * ❓ Rejection sampling
+  * ❓ Markov chain models
+* ❓ Heuristic simulation & optimization
+  * ❓ Simulated annealing
+  * ❓ Genetic algorithm
+* ❓ Game theory
+  * ❓ Iterated dominance
+  * ❓ Best-response strategy
+  * ❓ Non-degenerate game Nash equilibria
+  * ❓ Monte Carlo approximation for unique Nash equilibria
 
 ---
 
