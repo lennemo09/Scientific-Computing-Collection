@@ -10,14 +10,15 @@ This is a part of my self-directed learning journey on various topics in the fie
   * [Gauss-Seidel](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/comp-lin-alg/gauss-seidel-method.ipynb) & [Jacobi methods](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/comp-lin-alg/jacobi-method.ipynb)
   * [Power method for Eigensystems](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/comp-lin-alg/power-method.ipynb)
 * Iterative methods for non-linear equations
-  * Interval bisection method
-  * Newton method
-  * Secant method
-  * Cobweb model
+  * [Interval bisection method](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/iterative-methods-for-non-linear-systems/bisection-method.ipynb)
+  * [Newton's method](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/iterative-methods-for-non-linear-systems/newton-method.ipynb)
+  * [Secant method](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/iterative-methods-for-non-linear-systems/secant-method.ipynb)
+  * [Generating Cobweb plots](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/iterative-methods-for-non-linear-systems/cobweb-model.ipynb)
 * Dynamical systems - Differential equations & Non-linear coupled differential models
-  * Susceptibles-Infectives-Recovered (SIR) modelling
-  * Euler's method
-  * Heun's method
+  * [Extended Susceptibles-Infectives-Recovered (SIR) model](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/dynamical-systems-and-ODEs/SIR.ipynb)
+  * [Euler's method](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/dynamical-systems-and-ODEs/eulers-method.ipynb)
+  * [Heun's method](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/dynamical-systems-and-ODEs/heuns-method.ipynb)
+  * [Lotka-Volterra's Predator-Prey model](https://github.com/lennemo09/scientific-computing-collection/blob/main/notebooks/misc/predator-prey-model.ipynb)
   * Runge-Kutta 2
 * Stochastic modelling and simulation
   * Monte Carlo simulation: Buffon's needle, probabilistic dice game, function approximation
