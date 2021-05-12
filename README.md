@@ -3,6 +3,7 @@
 This is a part of my self-directed learning journey on various topics in the field of computational science so there will be _**A LOT**_ of mistakes and errors. Please feel free to point them you if you happen to any! 
 
 ### Contents (WIP)
+> These are the topics that I've finished working on but some haven't been compiled into their own notebooks yet, so I'll upload them when they're properly organized.
 * ✔ [Floating point numbers and computational errors](https://github.com/lennemo09/Scientific-Computing-Collection/tree/main/notebooks/floating-point-arithmetics)
 * ✔ Computational Linear Algebra
   * ✔ [Naive Gaussian elimination](https://github.com/lennemo09/Scientific-Computing-Collection/blob/main/notebooks/comp-lin-alg/gaussian-elimination.ipynb)
